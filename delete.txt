@@ -1,0 +1,5 @@
+1. 삭제 기능 구현
+2. controller파일에 delete라우터 동작
+3. service파일에 delete 메서드 생성
+4. repository 파일에 delete메서드 생성
+5. dbms에 삭제와 관련된swl문을 전달..
